@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-1.0.1_a9393f4c4c60980b1da94b77021b08fbe5649b5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f0a300dbeecb63fe09a198182a4348789d14d289">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7f64c9f0ab165e8f7b7c05e9d6e015bb2fc3b1d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_360e342e20ae3ffddad4a01d8fdc31deef2f8c25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_59bc3692889f4b5a03337bfccec7fea9ad4911ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-1.0.1_abf77031c4217e85799c4287b59cc4253ad77517/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_c4890b9efb34f21fdb406aba943d29a81aec6967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-1.0.1_7f110e370e8b5b01eac61324dec90b80733c00aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-1.0.1_6973db2d07702be2e3639d6032064f85abe96702/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_aca8227df443bdbb906a030c4a04454f91a5f2ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="114b8b7c7765884ca241e19fdc910dddfa0a313b">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_79b003120da0841746c611f8b90fac60389e72d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b2b8e3c7c48f46f95e1b3496a63682185661419f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_0c12b1cf2c379f06fae5f653913ee7f7e33cf75c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-1.0.1_e3c9c4072338817e5d405de0de59b05d383dc2d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_d60762997c3851f032433d6dbfe9089cc284d12d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_d7844d3af3d19a216205e4d54cddff57d8102051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_d39680af54b4b7573d1fcd4e06f0b2e425d3ad63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_36c799303c2b57cf5f1252f9226dd75c1f907d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.46.4_0dbbf52e839259275f54d9f95c8482ef7841e055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_3461a3a7f7bd0206aff262eff21ea5a31c475729/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_65b147b8646f650f770d07496c4376d17c466cae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.6.0_4050452a32c30dc36f7c78ee2c15c877f1bd0d59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_1bb3e8010e8a8bce2b5044186337a4ab50c38e5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/9am/dev/sdkDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/9am/dev/sdkDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_99dabf0fb6531c38c72bd5b045a83cc8bd04b5ef/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,22 @@
+TASK com.sdkdemo id=105
+  ACTIVITY com.sdkdemo/.MainActivity 6cc718d pid=23481
+    Local FragmentActivity 611906d State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@c9e4a2
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@c9e4a2
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{ebe533 V.E..... ... 0,0-1440,2560}
+        android.widget.LinearLayout{cb850f0 V.E..... ... 0,0-1440,2560}
+          android.view.ViewStub{cc3c669 G.E..... ... 0,0-0,0 #10203a9 android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{405a8ee V.E..... ... 0,96-1440,2560}
+            android.support.v7.internal.widget.FitWindowsLinearLayout{5f5a18f V.E..... ... 0,0-1440,2464 #7f0d0043 app:id/action_bar_root}
+              android.support.v7.internal.widget.ViewStubCompat{4698c1c G.E..... ... 0,0-0,0 #7f0d0044 app:id/action_mode_bar_stub}
+              android.support.v7.internal.widget.ContentFrameLayout{3496025 V.E..... ... 0,0-1440,2464 #1020002 android:id/content}
+                android.widget.LinearLayout{32765fa V.E..... ... 0,0-1440,2464}
+                  android.support.v7.widget.AppCompatTextView{234c7ab V.ED..C. ... 40,40-1400,200 #7f0d0057 app:id/textView}
+                  android.widget.LinearLayout{e914e08 V.E..... ... 0,240-1440,640}
+                    android.support.v7.widget.AppCompatTextView{bd4d9a1 V.ED.... ... 0,0-224,76}
+        android.view.View{775e7c6 V.ED.... ... 0,0-1440,96 #102002f android:id/statusBarBackground}
