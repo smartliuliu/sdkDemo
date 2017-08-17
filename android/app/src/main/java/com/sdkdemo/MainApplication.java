@@ -6,6 +6,7 @@ import com.ble.demo.BleDemoPackage;
 import com.example.test.mylibrary.MyReactPackage;
 import com.facebook.react.ReactApplication;
 import it.innove.BleManagerPackage;
+import it.innove.BleManagerPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
@@ -28,6 +29,7 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new BleManagerPackage(),
 //            new BleManagerPackage(),
 //              new MyReactPackage(),
               new BleDemoPackage()
